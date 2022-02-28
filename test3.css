@@ -1,0 +1,16 @@
+body
+{background-image: url("bg1.jpg");
+ background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center;
+            background-attachment: fixed;
+            background-size: cover;}
+    @font-face 
+{
+    font-family: 'alice';
+    src: url(fonts/Alice_in_Wonderland_3.ttf);
+    font-style: normal;
+}
+h1
+{font-family: 'alice';                                                
+    text-align: center;}
